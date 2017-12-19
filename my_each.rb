@@ -7,9 +7,9 @@ my_array = []
   my_array.push(array[i])
     i = i + 1
   end
-  my_array
 else
  "nothing"
 
 end
+my_array
 end
