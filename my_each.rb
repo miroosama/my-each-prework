@@ -10,5 +10,5 @@ else
  "nothing"
 
 end
-my_array
+yeild
 end
